@@ -37,6 +37,10 @@ For example:
 * Play the game arkanoid level 2, record the game progress, and specify the script ml_play_template.py
 
   ```
+  
+  ## 操作
+  python MLGame.py pingpong -i ml_play_1.py ml_play_2.py
+  python MLGame.py pingpong -i ml_play_p1.py ml_play_p2.py
   $ python MLGame.py -r -i ml_play_template.py arkanoid 2
   ```
 
