@@ -1,5 +1,7 @@
 # MLGame
 
+2019年大二下學期「基於遊戲的機器學習入門」的第一個遊戲。 以下資訊複製自課程提供的資料
+
 A platform for applying machine learning algorithm to play pixel games
 
 MLGame separates the machine learning part from the game core, which makes users easily apply codes to play the game.
